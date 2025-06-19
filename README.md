@@ -1,20 +1,65 @@
-# PassTheTraps
-Our game features a stylish and charismatic character on an exciting adventure. As the player, you take control of this hero and navigate through a world full of challenges and dangers.
+# 🌀Pass The Traps
 
-There are moving platforms that require precise timing and careful jumps. A single mistake can send you falling.
+Step into the shoes of a bold and stylish hero on a thrilling platforming journey!  
+This game challenges your reflexes, timing, and strategy as you navigate a world filled with danger and clever level design.
 
-You'll encounter dangerous enemies and obstacles. If you're not fast enough, they’ll push you off the edge.
+---
 
-There are spinning platforms inspired by "rotating dummies" — you'll have to time your moves to cross them safely.
+## 🕹️ About the Game
 
-Small sweepers appear along the way, trying to push you off course and slow your progress.
+You play as a charismatic adventurer traversing a dangerous and ever-changing environment. From shifting ground to spinning traps, each step demands precision and focus.
 
-After overcoming all the challenges, you finally reach your goal — a mysterious temple, where something valuable might be waiting to be stolen...
+- ⚠️ **Moving Platforms:** Jump across unstable platforms that require sharp reflexes and perfect timing. One misstep, and you're falling into the abyss.
+  
+- 🔩 **Spinning Traps:** Inspired by "rotating dummies," these moving hazards require patience and well-timed movement to pass through safely.
+  
+- 💥 **Enemies & Obstacles:** Unforgiving foes and cleverly placed traps will push you off balance — or off the edge — if you're not fast enough.
+  
+- 🧹 **Sweepers:** These small, persistent machines will do everything to shove you off the path. Avoid or outmaneuver them to keep moving forward.
+  
+- 🏛️ **Final Challenge:** Reach the mysterious temple that hides a valuable treasure… if you manage to survive the gauntlet!
 
-While playing this game, you’ll learn:
+---
 
-Quick reflexes and timing
+## 🖼️ Screenshots
 
-Strategic thinking and path planning
+### 🔦 Platform Navigation
+![Platforming](images/passthetraps1.PNG)
 
-Patience and perseverance in the face of obstacles
+### 💥 Dodge the Sweepers
+![Sweepers](images/pass2.PNG)
+
+### 🏛️ The Treasure Awaits
+![Treasure Room](images/pass3.PNG)
+
+### 🏛️ Find it!
+![Treasure Room](images/pass4.PNG)
+
+---
+
+## 🎥 Gameplay Preview
+
+[![Watch on YouTube](https://img.youtube.com/vi/vn-8WVN9tgU/0.jpg)](https://www.youtube.com/watch?v=vn-8WVN9tgU)
+
+---
+
+## 🧠 What You'll Learn
+
+- ⚡ **Quick Reflexes & Timing**  
+- 🧭 **Strategic Thinking**  
+- 💪 **Perseverance in the Face of Failure**
+
+---
+
+## 🎮 Built With
+
+- 🛠️ **Unreal Engine 5**
+- 🧠 Blueprint logic and C++ integration
+- 🌟 Stylized animations and effects
+- 🔊 Dynamic sound design
+
+---
+
+## 📬 Contact
+
+For feedback, ideas, or collaborations: [m.alperenk@gmail.com]
