@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\bjk_1\\Documents\\Unreal Projects\\PassTheTraps\\Source\\PassTheTraps\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bjk_1\\Documents\\Unreal Projects\\PassTheTraps\\.vscode\\compileCommands_PassTheTraps\\PassTheTraps.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\bjk_1\\Documents\\Unreal Projects\\PassTheTraps\\Source\\PassTheTraps\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bjk_1\\Documents\\Unreal Projects\\PassTheTraps\\.vscode\\compileCommands_PassTheTraps\\PassTheTraps.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\bjk_1\\Documents\\Unreal Projects\\PassTheTraps\\Source\\PassTheTraps\\PassTheTraps.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bjk_1\\Documents\\Unreal Projects\\PassTheTraps\\.vscode\\compileCommands_PassTheTraps\\PassTheTraps.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\bjk_1\\Documents\\Unreal Projects\\PassTheTraps\\Source\\PassTheTraps\\PassTheTraps.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bjk_1\\Documents\\Unreal Projects\\PassTheTraps\\.vscode\\compileCommands_PassTheTraps\\PassTheTraps.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\bjk_1\\Documents\\Unreal Projects\\PassTheTraps\\Source\\PassTheTraps\\PassTheTraps.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\bjk_1\\Documents\\Unreal Projects\\PassTheTraps\\.vscode\\compileCommands_PassTheTraps\\PassTheTraps.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
